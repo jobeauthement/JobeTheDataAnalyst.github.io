@@ -1,4 +1,19 @@
-Massively by HTML5 UP
+Hello, This is Jobe.
+
+Thank you for viewing my portfolio project website. This is my first time launching my own website.  
+
+I have edited a few things like centering, images, breaks.  I also edited the website links to open up into new browser windows.
+This is an ongoing project for me and I am continuing to learn HTML, CSS, and Javascript.  
+I am looking to further develop my web content editing skills.
+I also look forward to learning more front end skills and dev environments.
+
+Thank you for taking the time to explore my portfolio.
+
+Sincerely,
+
+Jobe
+
+This template is provided by Massively by HTML5 UP.
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
