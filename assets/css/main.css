@@ -4742,7 +4742,7 @@ body.is-preload #intro:not(.hidden) + #header + #nav {
   background-color: #ffffff;
 }
 
-@media screen and (max-width: 980px) {
+/* @media screen and (max-width: 980px) {
   #navPanelToggle {
     display: block;
   }
@@ -4753,7 +4753,7 @@ body.is-preload #intro:not(.hidden) + #header + #nav {
     font-size: 0.8rem;
     padding: 0.25rem 1rem;
   }
-}
+} */
 
 #navPanel {
   -moz-transform: translateX(20rem);
