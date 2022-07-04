@@ -32,7 +32,16 @@ you can use for pretty much whatever.
 AJ
 aj@lkn.io | @ajlkn
 
-
+Icons Attributions:
+<a href="https://iconscout.com/icons/linux" target="_blank">Linux Icon</a> by <a href="https://iconscout.com/contributors/icon-mafia" target="_blank">Icon Mafia</a>
+<a href="https://iconscout.com/icons/ubuntu" target="_blank">Ubuntu Icon</a> by <a href="https://iconscout.com/contributors/icon-mafia" target="_blank">Icon Mafia</a>
+<a href="https://iconscout.com/icons/google" target="_blank">Google Icon</a> by <a href="https://iconscout.com/contributors/icon-mafia" target="_blank">Icon Mafia</a>
+<a href="https://iconscout.com/icons/sql" target="_blank">Sql Logo Icon</a> by <a href="https://iconscout.com/contributors/icon-mafia">Icon Mafia</a> on <a href="https://iconscout.com">IconScout</a>
+<a href="https://iconscout.com/icons/javascript" target="_blank">Javascript Icon</a> by <a href="https://iconscout.com/contributors/maninderkaur">maninderkaur</a> on <a href="https://iconscout.com">IconScout</a>
+<a href="https://iconscout.com/icons/python" target="_blank">Python Logo Icon</a> by <a href="https://iconscout.com/contributors/icon-54">Icon 54</a> on <a href="https://iconscout.com">IconScout</a>
+<a href="https://iconscout.com/icons/postgresql" target="_blank">Postgresql Icon</a> by <a href="https://iconscout.com/contributors/icon-mafia" target="_blank">Icon Mafia</a>
+<a href="https://iconscout.com/icons/tableau" target="_blank">Tableau Icon</a> by <a href="https://iconscout.com/contributors/icon-mafia">Icon Mafia</a> on <a href="https://iconscout.com">IconScout</a>
+<a href="https://iconscout.com/icons/excel" target="_blank">Excel App Logo Icon</a> by <a href="https://iconscout.com/contributors/icon-mafia">Icon Mafia</a> on <a href="https://iconscout.com">IconScout</a>
 Credits:
 
 	Demo Images:
