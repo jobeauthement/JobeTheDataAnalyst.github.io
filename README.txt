@@ -1,6 +1,6 @@
 Hello, This is Jobe.
 
-Thank you for viewing my portfolio project website. This is my first time launching my own website.  
+Thank you for viewing my portfolio project website: https://jobeauthement.github.io/JobeTheDataAnalyst.github.io/  
 
 I have edited a few things like centering, images, breaks.  I also edited the website links to open up into new browser windows.
 This is an ongoing project for me and I am continuing to learn HTML, CSS, and Javascript.  
